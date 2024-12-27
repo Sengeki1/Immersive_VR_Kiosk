@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 1A1A1A
-    second: {fileID: 6240576843349501273, guid: 89e5e4ca1555a804d868e9218dcbf061, type: 3}
+    second: {fileID: -8078617138743364992, guid: 89e5e4ca1555a804d868e9218dcbf061, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: 455A64
-    second: {fileID: -7238897914379350543, guid: 89e5e4ca1555a804d868e9218dcbf061, type: 3}
+    second: {fileID: 7770318624900243041, guid: 4836ec0f19672224b9f72e2912f83b1b, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
