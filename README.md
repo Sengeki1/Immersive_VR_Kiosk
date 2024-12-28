@@ -16,9 +16,8 @@ Welcome to the Immersive Virtual Reality Kiosk project, a Unity-based VR applica
 
 ---
 
-## How to Use
-
 ### Navigation
+
 - **Keyboard Controls**:
   - Use `W` to move forward.
   - Use `S` to move backward.
@@ -26,6 +25,7 @@ Welcome to the Immersive Virtual Reality Kiosk project, a Unity-based VR applica
   - Use `D` to move right.
 
 ### Interaction
+
 1. Press `2` to select the **left hand** or `3` to select the **right hand**.
 2. Use the `W`, `S`, `A`, `D` keys to position the selected hand/controller.
 3. **Mouse Interaction**:
@@ -37,6 +37,7 @@ Welcome to the Immersive Virtual Reality Kiosk project, a Unity-based VR applica
 ## Build Instructions
 
 ### Build Instructions
+
 1. Install Unity version **2022.3.16f1**.
 2. Install VRTK version **VRTK v4**.
 3. Clone the repository:  
@@ -55,6 +56,7 @@ Welcome to the Immersive Virtual Reality Kiosk project, a Unity-based VR applica
 Below is a list of assets used in this project that were not created in-house:
 
 1. **Models**:
+   
    - Electronic Game - Source: <https://poly.pizza/m/QIJoiNqjrk>
    - Desk - Source: <https://poly.pizza/m/ISpMh81QGq>
    - Desk2 - Source: <https://poly.pizza/m/V86Go2rlnq>
@@ -75,6 +77,7 @@ Below is a list of assets used in this project that were not created in-house:
    - Kart - Source: <https://poly.pizza/m/bKDlM4mH7rg>
    
 2. **Sounds/Music**:
+   
    - Super Duper - Source: <https://artlist.io/royalty-free-music/song/super-duper/4989>
 
 ---
@@ -85,7 +88,8 @@ Below is a list of assets used in this project that were not created in-house:
 
 Below are some screenshots showcasing the application running in both VR and desktop modes:
 
-1. **Main Kiosk View**  
+1. **Main Kiosk View**
+
    _Main Hub Area._
    
    <img src="https://github.com/user-attachments/assets/83c721b3-55b4-4152-b16c-b09fc3b46e0e" align="center">
@@ -95,31 +99,35 @@ Below are some screenshots showcasing the application running in both VR and des
    <img src="https://github.com/user-attachments/assets/5d50f4fb-875b-4ffe-96e2-db230242c485" align="center">
 
 ### Frame Rate Analysis
+
 - The application consistently maintained a locked frame rate of **60 FPS**, even during high object interaction or physics simulations.
 
 ---
 
 ## Demo Video
 
-Watch a 5-minute video demonstration of the project here: [Video Link](#).
+<https://www.youtube.com/watch?v=hI1ajP7XgXc>
 
 ---
 
 ## Discussion: Simulator vs. Headset Experience
 
 The experience of interacting with the application in a VR simulator compared to the actual headset is vastly different.  
+
 ### Simulator:
+
 - Allows quick testing of functionality without requiring the headset.
 - Mouse and keyboard controls enable precise debugging.
 - Lacks full immersion due to the absence of head and hand tracking.
 
 ### Headset:
+
 - Provides full immersion, leveraging the Quest’s capabilities.
 - Interaction feels natural, with precise hand-tracking and spatial awareness.
 - Visual and audio fidelity are optimized for the user, creating a more engaging experience.
 
 ---
 
-## Portfolio Value
+The portfolio value of this project is immense, showcasing a range of technical and creative skills highly relevant in the modern software and gaming industries. It highlights your ability to design and develop interactive virtual environments that cater to both VR headset users and traditional keyboard/mouse users, demonstrating flexibility in user experience design.
 
 ---
