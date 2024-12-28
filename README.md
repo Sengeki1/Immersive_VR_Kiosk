@@ -74,10 +74,8 @@ Below is a list of assets used in this project that were not created in-house:
    - Go Kart - Source: <https://poly.pizza/m/MkByxZCSMA>
    - Kart - Source: <https://poly.pizza/m/bKDlM4mH7rg>
    
-   _Note: Grabbable models are marked with an asterisk (*) in the list._
-   
-3. **Sounds/Music**:
-   - [Sound 1] - Source: [URL or creator details]
+2. **Sounds/Music**:
+   - Super Duper - Source: <https://artlist.io/royalty-free-music/song/super-duper/4989>
 
 ---
 
@@ -88,18 +86,14 @@ Below is a list of assets used in this project that were not created in-house:
 Below are some screenshots showcasing the application running in both VR and desktop modes:
 
 1. **Main Kiosk View**  
-   _Description of this area._  
-   ![Screenshot 1](#)
+   _Main Hub Area._
+   <img src="https://github.com/user-attachments/assets/83c721b3-55b4-4152-b16c-b09fc3b46e0e" align="center">
 
 2. **Interactive Item Panel**  
-   _Description of this area._  
-   ![Screenshot 2](#)
+   <img src="https://github.com/user-attachments/assets/5d50f4fb-875b-4ffe-96e2-db230242c485" align="center">
 
 ### Frame Rate Analysis
-- **High Performance Areas**: _Description, e.g., minimal objects or static scenes._
-- **Low Performance Areas**: _Description, e.g., high object interaction or heavy physics simulations._
-
-Average frame rate: **[Specify FPS]**.
+- The application consistently maintained a locked frame rate of **60 FPS**, even during high object interaction or physics simulations.
 
 ---
 
@@ -125,11 +119,5 @@ The experience of interacting with the application in a VR simulator compared to
 ---
 
 ## Portfolio Value
-
-This project demonstrates proficiency in:
-- VR development using Unity and VRTK.
-- Supporting multiple control methods (VR controllers and keyboard/mouse).
-- Creating interactive and immersive 3D environments.
-- Optimizing VR applications for performance.
 
 ---
