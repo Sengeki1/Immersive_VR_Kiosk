@@ -87,9 +87,11 @@ Below are some screenshots showcasing the application running in both VR and des
 
 1. **Main Kiosk View**  
    _Main Hub Area._
+   
    <img src="https://github.com/user-attachments/assets/83c721b3-55b4-4152-b16c-b09fc3b46e0e" align="center">
 
-2. **Interactive Item Panel**  
+2. **Interactive Item Panel**
+   
    <img src="https://github.com/user-attachments/assets/5d50f4fb-875b-4ffe-96e2-db230242c485" align="center">
 
 ### Frame Rate Analysis
