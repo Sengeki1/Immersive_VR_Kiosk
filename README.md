@@ -42,8 +42,8 @@ Welcome to the Immersive Virtual Reality Kiosk project, a Unity-based VR applica
 2. Install VRTK version **VRTK v4**.
 3. Clone the repository:  
    ```bash
-   git clone https://github.com/Sengeki1/Immersive_Virtual_Reality.git
-   cd Immersive_Virtual_Reality
+   git clone https://github.com/Sengeki1/Immersive_VR_Kiosk.git
+   cd Immersive_VR_Kiosk
    ```
 4. Open the project in Unity.
 5. Set the target platform to Android (for Meta Quest) or Windows (for desktop testing). If target platform is for Meta Quest, ensure that ``UnityXRPluginFramework`` is enabled and ``CameraRigs.SpatialSimulator`` is disabled. One can do this by clicking Toggle Active State.
